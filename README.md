@@ -1,5 +1,4 @@
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg) -->
-
+# [Preview my portfolio here 👈](https://thirki-portfolio.netlify.app/)
 ## Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px"> 
 <span>To open links in a new tab use CTRL + mouse click</span>
 
